@@ -9,7 +9,6 @@ venv
 
 # Cache
 __pycache__
-.env
 .idea
 .ipynb_checkpoints
 .mypy_cache
